@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python and JavaScript.
+- 👯 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
+- 📫 How to reach me: https://www.linkedin.com/in/carlos17/
+- 🔭Every day I try to learn something new in programming and I am constantly looking for my first programming job opportunity.
+
+a pleasure 👋
+
 <!--
 **Carlos-maldonado578/Carlos-maldonado578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
