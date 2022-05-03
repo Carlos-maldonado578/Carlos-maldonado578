@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and JavaScript.
 - 👯 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
 - 📫 How to reach me => https://www.linkedin.com/in/carlos17/
-- 🤔 Also if you like you can check my CV => https://n9.cl/6u8it
+- 🤔 Also if you like you can check my CV => 
 - 🔭Every day I try to learn something new in programming and I am constantly looking for my first programming job opportunity.
 
 a pleasure 👋
