@@ -3,9 +3,9 @@
 ![Hi There! (1)](https://user-images.githubusercontent.com/71195669/167061385-6e05f612-9a0d-4cda-9227-a94e2fb29061.png)
 
 - 🌱 I’m currently learning Python and JavaScript.
-- 👯 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
-- 📫 How to reach me => https://www.linkedin.com/in/carlos17/
-- 🤔 Also if you like you can check my CV => https://n9.cl/7lr5s
+- 👨🏻‍🎓 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
+- 📫 You can find me on <a href="https://www.linkedin.com/in/carlos17/"> Linkedin</a>.
+- 🤔 Also if you want you can see my <a href="https://app.luminpdf.com/viewer/62749a78f00aabd24ce66bf0"> resume</a>.
 - 🔭Every day I try to learn something new in programming and I am constantly looking for my first programming job opportunity.
 
 a pleasure 👋
