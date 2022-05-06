@@ -1,5 +1,6 @@
 ### Hi, I'm Carlos 👋👨🏻‍💻
 
+![Hi There! (1)](https://user-images.githubusercontent.com/71195669/167061385-6e05f612-9a0d-4cda-9227-a94e2fb29061.png)
 
 - 🌱 I’m currently learning Python and JavaScript.
 - 👯 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
