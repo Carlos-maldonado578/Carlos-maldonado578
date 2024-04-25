@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python and JavaScript.
 - 👨🏻‍🎓 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
 - 📫 You can find me on <a href="https://www.linkedin.com/in/carlos17/"> Linkedin</a>.
-- 🤔 Also if you want you can see my <a href="https://app.luminpdf.com/viewer/62749a78f00aabd24ce66bf0"> resume</a>.
+- 🤔 Also if you want you can see my <a href="https://drive.google.com/file/d/1-YfZrq7zMJKJNEshfuqHvwWlqYBsjJyq/view?usp=sharing"> resume</a>.
 - 🔭Every day I try to learn something new in programming and I am constantly looking for my first programming job opportunity.
 
 
